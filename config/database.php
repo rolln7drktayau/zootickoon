@@ -1,7 +1,7 @@
 <?php
-$server = 'localhost';
-$username = 'root';
-$password = '';
+$server = 'rolandtest3-server.mysql.database.azure.com';
+$username = 'jvdwzkzpuz';
+$password = 'HNYO434SB660244Z$';
 $database = 'zootickoon';
 
 try{
